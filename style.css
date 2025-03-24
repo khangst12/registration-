@@ -7,6 +7,7 @@
 }
 
 body {
+    
     font-family: 'Ubuntu', sans-serif;
 }
 
@@ -93,6 +94,8 @@ body {
 }
 
 .box {
+  
+
     padding: 15px;
     margin: 10px;
     width: 100%;
@@ -113,19 +116,20 @@ body {
     font-weight: bolder;
 }
 
-.box ul {
-    list-style-type: none;
-    padding: 0;
+.section2 h1{
+    color: #04941a;
 }
 
 .box ul li {
     margin: 10px 0;
+    list-style: none;
 }
 
 .plantable table {
     width: 100%;
     border-collapse: collapse;
 }
+
 
 .plantable th, .plantable td {
     padding: 10px;
